@@ -1,0 +1,35 @@
+Created By google in 2011
+
+Language created from scratch like no C/C++ etc etc pure assemble and binaries.
+
+Open Source
+
+!! Not a Google's Product (They don't advertise or sell It but Of course It was funded and built by them)
+-> Angular.js is a Google's product
+
+Multi-purpose
+
+Multi-platform
+
+Strong, Static Type System
+
+C-inspired syntax
+
+Compiled
+
+Multi-paradigm
+
+Garbase-collected
+
+Fast
+
+Single binary compilation
+
+every go file needs to be under a '''package'''
+that package can be anything common is '''main'''
+
+{It's like an Entry point}
+
+
+
+
